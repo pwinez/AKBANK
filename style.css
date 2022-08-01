@@ -1,0 +1,25 @@
+body {
+    background-image: url("public/modern-geometrical-background-with-white-round-lines.png");
+    background-size: cover;
+    background-size: 100%;
+    background-repeat: no-repeat;
+   }
+
+   .home-slider{
+    width: 1170px;
+    padding: 25px;
+    
+   
+   }
+
+   .home-slider-item{
+    padding: 15px;
+    margin-left: 25px;
+
+   }
+
+
+
+   
+
+
